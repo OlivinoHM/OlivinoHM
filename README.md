@@ -19,3 +19,8 @@ Sinta-se à vontade para entrar em contato comigo para discutir oportunidades de
 [![LinkedIn](URL_DO_BADGE_DO_LINKEDIN)](https://www.linkedin.com/in/olivinohm/)
 [![GitHub](URL_DO_BADGE_DO_GITHUB)](https://github.com/OlivinoHM)
 [![Dio.me](URL_DO_BADGE_DO_DIOME)](https://dio.me/users/olivino_hm)
+
+
+[def]: https://github.com/OlivinoHM/Aula02-PrimeiroServidor/blob/main/trust%20in.png?raw=true
+
+
