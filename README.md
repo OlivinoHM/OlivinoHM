@@ -40,6 +40,9 @@ Sinta-se à vontade para entrar em contato comigo para discutir oportunidades de
 
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OlivinoHM&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## :wrench: Linguagens & Ferramentas:
 
   
