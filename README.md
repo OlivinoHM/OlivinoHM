@@ -20,6 +20,7 @@ Sinta-se à vontade para entrar em contato comigo para discutir oportunidades de
 [![GitHub](URL_DO_BADGE_DO_GITHUB)](https://github.com/OlivinoHM)
 [![Dio.me](URL_DO_BADGE_DO_DIOME)](https://dio.me/users/olivino_hm)
 
+![Snake animation](https://github.com/OlivinoHM/OlivinoHM/blob/output/github-contribution-grid-snake.svg)
 
 [def]: https://github.com/OlivinoHM/Aula02-PrimeiroServidor/blob/main/trust%20in.png?raw=true
 
