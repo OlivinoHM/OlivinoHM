@@ -35,7 +35,7 @@
 <a href = "mailto:contato@olivino.hm"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/olivinoh" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/OlivinoHM/OlivinoHM/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/OlivinoHM/OlivinoHM/blob/output/github-contribution-grid-snake.svg)
 
 <p  class="Profile Views Badge"  align="center"> <img  src="https://komarev.com/ghpvc/?username=OlivinoHM&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="OlivinoHM" />
 
